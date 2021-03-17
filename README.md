@@ -16,5 +16,5 @@ School: Highschool Of Telecommunications Art and Technology
 * Indie
 * Rock
 * Punk Rock
-- *   Spotify
+-    Spotify
 
