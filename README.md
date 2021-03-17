@@ -13,8 +13,8 @@ School: Highschool Of Telecommunications Art and Technology
 4. Collecting figures
 5. My cat
 6. Music
-* Indie
-* Rock
-* Punk Rock
+- Indie
+- Rock
+- Punk Rock
 - * Spotify
 
