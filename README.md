@@ -2,6 +2,14 @@
 ---
 Name: **Angelina Sambuco**
 ---
+
 School: Highschool Of Telecommunications Art and Technology
----
-Interests: Gaming, Anime, Skateboarding, Collecting figures and my cat.
+
+
+Interests: 
+1. Gaming 
+2. Anime
+3. Skateboarding
+4. Collecting figures
+5. My cat
+6. Music
