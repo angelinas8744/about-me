@@ -12,7 +12,7 @@ School: Highschool Of Telecommunications Art and Technology
 3. Skateboarding
 4. Collecting figures
 5. My cat
-6. Music
+6. ######Music
 - Indie
 - Rock
 - Punk Rock
