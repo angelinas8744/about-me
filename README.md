@@ -10,6 +10,9 @@ School: Highschool Of Telecommunications Art and Technology
 1. Gaming 
 2. Anime
 3. Skateboarding
+- Longboard
+- Skateboard
+- Cruizer
 4. Collecting figures
 5. My cat
 6. ### Music
